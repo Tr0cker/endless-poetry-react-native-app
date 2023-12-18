@@ -20,3 +20,6 @@ To contribute to the development of Endless Poetry, please email us at auroraaks
 
 Support
 If you encounter any issues or have questions, please contact us at auroraaksnes520@email.com.
+
+Database
+if you want to have the database file, please contact auroraaksnes520@email.com.
