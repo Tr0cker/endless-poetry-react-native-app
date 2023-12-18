@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Endless Poetry",
+    "slug": "expo-template-tabs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rui2666.expotemplatetabs"
+    },
+    "web": {
+      "favicon": "./assets/images/icon/web/icon-192.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc1fcf11-e4c7-4ff1-add1-f85c9d8b789f"
+      }
+    }
+  }
+}
