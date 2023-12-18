@@ -16,7 +16,7 @@ For a quick guide on how to use Endless Poetry, watch our introductory video
 https://www.youtube.com/watch?v=JrsAnC0vHg0
 
 Contributions
-To contribute to the development of Endless Poetry, please email us at contact@email.com for further instructions.
+To contribute to the development of Endless Poetry, please email us at auroraaksnes520@email.com for further instructions.
 
 Support
-If you encounter any issues or have questions, please contact us at contact@email.com.
+If you encounter any issues or have questions, please contact us at auroraaksnes520@email.com.
