@@ -2,7 +2,7 @@ Endless Poetry
 Overview
 Endless Poetry is a mobile application dedicated to poetry enthusiasts. It offers a platform for users to express, discover, and engage with poems. Developed using React Native, Python Flask, and MySQL, it provides a seamless and interactive experience for poetry lovers.
 
-this project is completely done by myself, from prototype, UI/UX Design, Coding, Getting Feedback/Fix Bugs, Front end, back end(api).
+this project is completely done by myself : prototype, UI/UX Design, Coding, Getting Feedback/Fix Bugs, Front end, back end(api).
 
 Features
 Post and read poems.
